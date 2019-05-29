@@ -1,3 +1,4 @@
+Git is a distributed version control system.
 have a good time
 all time
 distribute
