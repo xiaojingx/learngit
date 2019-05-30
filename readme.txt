@@ -7,5 +7,5 @@ Git is free  GPL.
 git has a mutable index called stages
 my boss still stupid
 git is a good software.
-creating a new branch is quick
+creating a new branch is quick£¡
 
